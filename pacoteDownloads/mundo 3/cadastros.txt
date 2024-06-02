@@ -1,0 +1,5 @@
+a;2
+nyko;23
+fer;45
+nycolas;17
+esmerinda;60
